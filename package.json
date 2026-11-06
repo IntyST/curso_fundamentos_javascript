@@ -1,0 +1,19 @@
+{
+  "name": "curso_fundamentos_javascript",
+  "version": "1.0.0",
+  "description": "Clases de fundamentos javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntyST/curso_fundamentos_javascript.git"
+  },
+  "author": "inty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntyST/curso_fundamentos_javascript/issues"
+  },
+  "homepage": "https://github.com/IntyST/curso_fundamentos_javascript#readme"
+}
